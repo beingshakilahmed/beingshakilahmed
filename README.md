@@ -39,16 +39,9 @@
 ###
   
 <h2 align="center">⚡ Stats ⚡</h2>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=beingshakilahmed&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=beingshakilahmed&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=beingshakilahmed&langs_count=5&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=beingshakilahmed&count_private=true&locale=en&show_icons=true&show=reviews&hide=contribs&hide_title=false&layout=compact&card_width=500&langs_count=8&theme=dracula&hide_border=false&timestamp=123456789" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beingshakilahmed&count_private=true&locale=en&hide_title=false&layout=compact&card_width=425&langs_count=8&theme=dracula&hide_border=false&timestamp=123456789" height="150" alt="languages graph"  />
+<img src="https://streak-stats.demolab.com/?user=beingshakilahmed&count_private=true&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=8&theme=dracula&hide_border=false&timestamp=123456789" height="150" alt="streak stats"/>
 
 
 ###
