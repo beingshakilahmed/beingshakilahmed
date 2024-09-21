@@ -40,9 +40,13 @@
   
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beingshakilahmed&locale=en&show_icons=true&&show=reviews&hide=contribs&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beingshakilahmed&locale=en&hide_title=false&layout=compact&card_width=425&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=beingshakilahmed&count_private=true&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=5&theme=dracula&hide_border=false" height="150" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=beingshakilahmed&show_icons=true&hide=contribs&theme=radical&hide_border=false" width="300" height="400" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com/?user=beingshakilahmed&theme=radical&hide_border=false" width="300" height="400" alt="streak stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingshakilahmed&theme=radical&hide_border=false&langs_count=5" height="200" alt="languages graph" />
 </div>
+
+
+
+
 
 ###
