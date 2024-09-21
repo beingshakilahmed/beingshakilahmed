@@ -39,9 +39,12 @@
 ###
   
 <h2 align="center">⚡ Stats ⚡</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=beingshakilahmed&count_private=true&locale=en&show_icons=true&show=reviews&hide=contribs&hide_title=false&layout=compact&card_width=500&langs_count=8&theme=dracula&hide_border=false&timestamp=123456789" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beingshakilahmed&count_private=true&locale=en&hide_title=false&layout=compact&card_width=425&langs_count=8&theme=dracula&hide_border=false&timestamp=123456789" height="150" alt="languages graph"  />
-<img src="https://streak-stats.demolab.com/?user=beingshakilahmed&count_private=true&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=8&theme=dracula&hide_border=false&timestamp=123456789" height="150" alt="streak stats"/>
+<div align="center">
+    
+<img src="https://github-readme-stats.vercel.app/api?username=beingshakilahmed&count_private=true&locale=en&show_icons=true&show=reviews&hide=contribs&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=dracula&hide_border=false&rank_icon=github&timestamp=123456789" height="200" alt="stats graph"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=beingshakilahmed&count_private=true&locale=en&hide_title=false&layout=compact&card_width=425&langs_count=8&theme=dracula&hide_border=false&timestamp=123456789" height="200" alt="languages graph"/>
+<img src="https://streak-stats.demolab.com/?user=beingshakilahmed&count_private=true&locale=en&hide_title=false&layout=compact&card_width=650&langs_count=8&theme=dracula&hide_border=false&timestamp=123456789" height="200" alt="streak stats"/>
 
+</div>
 
 ###
