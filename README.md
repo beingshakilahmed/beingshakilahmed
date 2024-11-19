@@ -20,7 +20,6 @@
   <a href="https://www.instagram.com/shakil_ahmed.22" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F77737&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  
   <a href="https://www.linkedin.com/in/beingshakilahmed/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
