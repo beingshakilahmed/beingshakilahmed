@@ -20,14 +20,14 @@
   <a href="https://www.instagram.com/shakil_ahmed.22" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F77737&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
+  <a href="https://www.linkedin.com/in/beingshakilahmed/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=#0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
   <a href="https://wa.me/+8801311371238" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
   <a href="https://www.youtube.com/@Grade2Thinker" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-    <a href="https://www.linkedin.com/beingshakilahmed" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
   <h3 align="left">👨‍💻 All Of My Projects: "https://github.com/beingshakilahmed?tab=repositories"</h3>
