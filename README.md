@@ -53,9 +53,6 @@
     
 <img src="https://github-readme-stats.vercel.app/api?username=beingshakilahmed&count_private=true&locale=en&show_icons=true&show=reviews&hide=contribs&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=dracula&hide_border=false&rank_icon=github&timestamp=123456789" height="150" alt="stats graph"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beingshakilahmed&count_private=true&locale=en&hide_title=false&layout=compact&card_width=425&langs_count=8&theme=dracula&hide_border=false&timestamp=123456789" height="150" alt="languages graph"/>
-<img src="https://github-readme-stats.vercel.app/api?username=beingshakilahmed&show_icons=true&theme=dracula" height="150" alt="GitHub Readme Stats" />
-
-
 
 </div>
 
